@@ -12,6 +12,14 @@ I'm 30 years old, working as a CNC metalworking machine set-up engineer. I want 
 * JavaScript Basics
 * Adobe Photoshop Basics
 ## Code Example ##
+```
+    <form>
+      <label>
+       <input type="checkbox">
+       Text
+      </label>
+    </form>
+```    
 ## Experience ##
 * System administrator
 * Set-up engineer
