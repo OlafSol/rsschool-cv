@@ -29,7 +29,6 @@ I'm 30 years old, working as a CNC metalworking machine set-up engineer. I want 
     * Electric drive and automation
 * HTML Academy
 * CS50
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 * JavaScript learnjavascript.ru (in progress)
 ## English ##
 * Pre-Intermediate A2
